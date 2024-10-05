@@ -1,6 +1,6 @@
 # Distributed Computing Framework
 
-This repo is a distributed computing framework for Python based on bluelet. It provides a simple and efficient way to write and run parallel programs on a cluster of machines in a distributed environment, e.g., IoT systems or edge computing.
+This repo is a distributed computing and communication framework by Python based on bluelet. It provides a simple and efficient way to write and run parallel programs on a cluster of machines (nodes) in a distributed environment, e.g., IoT systems or edge computing.
 
 ## How to use
     root_dir/
@@ -33,10 +33,11 @@ The `tests` directory contains some test files to verify the correctness of the 
 
 ## Requirements
 Before developement and extending the functionality of this framework, you need to install the following package:
+
     pip install bluelet
 
 ## Statement
 This repo is only used for educational purposes and should not be used in production environments.
 
 ## Contact
-If you have any questions or suggestions, please contact me at withhaotian [at] gmail [dot] com.
+If you have any questions or suggestions, please contact me at: withhaotian [at] gmail [dot] com.
